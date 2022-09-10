@@ -1,5 +1,11 @@
-# LinksUtilizados
+# Links Utilizados
 Repositório onde irei compor diversos links utilizados para assuntos relacionados a desenvolvimento.
+
+### Git/GitHub - Atualizar repositório local
+- git pull origin main
+- git add .
+- git commit -m "XXXX"
+- git push origin main
 
 
 ### Git/GitHub - mudando de branch
